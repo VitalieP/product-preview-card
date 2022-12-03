@@ -121,7 +121,7 @@ body {
 }
 
 .image {
-  background-image: url(./images/image-product-mobile.jpg);
+  background-image: url(images/image-product-mobile.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -193,7 +193,7 @@ p:not([class]) {
     gap: 1rem;
   }
   .image {
-    background-image: url(./images/image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
